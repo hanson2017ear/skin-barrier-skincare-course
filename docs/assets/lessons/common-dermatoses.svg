@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800px" height="1100px" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
 <title id="title">常见损容性皮肤病思维导图</title>
-<desc id="desc">认识痤疮、玫瑰痤疮等常见问题，区分基础护理与疾病诊疗。夏悦老师《常见损容性皮肤病》PPT笔记；标题页署名与9月29日课程表相符。</desc>
+<desc id="desc">痤疮、玫瑰痤疮、脂溢性皮炎与白癜风的课堂要点。夏悦老师《常见损容性皮肤病》PPT笔记，9月29日。</desc>
 <rect width="1800" height="1100" fill="#FCFCF9"/>
-<text x="60" y="57.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#657E78" text-anchor="start">专题 04</text>
+<text x="60" y="57.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#657E78" text-anchor="start">课程笔记</text>
 <text x="60" y="116.99" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="43px" font-weight="700" fill="#203D37" text-anchor="start">常见损容性皮肤病</text>
 <text x="60" y="164.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="400" fill="#64736E" text-anchor="start">夏悦老师 · 9月29日 · 课堂笔记</text>
 <line x1="60" y1="195" x2="1740" y2="195" stroke="#DDE5DF" stroke-width="2"/>
@@ -17,27 +17,21 @@
 <polyline points="1150,616.0 1190,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <polyline points="1150,885.0 1190,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <rect x="694" y="482" width="412" height="258" rx="30" fill="#315F56"/>
-<text x="900.0" y="529.46" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22px" font-weight="400" fill="#DCE9E4" text-anchor="middle">本课要回答</text>
-<text x="900.0" y="593.83" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">反复长痘、泛红，</text>
-<text x="900.0" y="640.83" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">应该怎样理解？</text>
-<text x="900.0" y="715.53" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21px" font-weight="400" fill="#E1EDE8" text-anchor="middle">结构 · 机制 · 生活应用</text>
+<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">反复长痘、泛红，</text>
+<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">应该怎样理解？</text>
 <g id="branch-1">
 <rect x="60" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="78" y="259" width="48" height="45" rx="12" fill="#EFF5F2"/>
-<text x="102" y="285.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#4B756E" text-anchor="middle">01</text>
-<text x="144" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">认识疾病范围</text>
+<text x="90" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">认识疾病范围</text>
 <circle cx="93" cy="340" r="3" fill="#4B756E"/>
 <text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">涉及外露部位皮肤与外观</text>
 <circle cx="93" cy="377" r="3" fill="#4B756E"/>
 <text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">附属器、色素及皮炎问题并存</text>
 <circle cx="93" cy="414" r="3" fill="#4B756E"/>
-<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">观察皮损而非只看“颜值”</text>
+<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">关注皮损的具体表现</text>
 </g>
 <g id="branch-2">
 <rect x="60" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="78" y="528" width="48" height="45" rx="12" fill="#F0F5F7"/>
-<text x="102" y="554.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#55798A" text-anchor="middle">02</text>
-<text x="144" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">痤疮为何发生</text>
+<text x="90" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">痤疮为何发生</text>
 <circle cx="93" cy="609" r="3" fill="#55798A"/>
 <text x="112" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮脂分泌与毛囊口角化改变</text>
 <circle cx="93" cy="646" r="3" fill="#55798A"/>
@@ -47,9 +41,7 @@
 </g>
 <g id="branch-3">
 <rect x="60" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="78" y="797" width="48" height="45" rx="12" fill="#FAF3EC"/>
-<text x="102" y="823.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#936F56" text-anchor="middle">03</text>
-<text x="144" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">痤疮的护理与治疗</text>
+<text x="90" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">痤疮的护理与治疗</text>
 <circle cx="93" cy="878" r="3" fill="#936F56"/>
 <text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">避免过度清洗和挤压皮损</text>
 <circle cx="93" cy="915" r="3" fill="#936F56"/>
@@ -59,9 +51,7 @@
 </g>
 <g id="branch-4">
 <rect x="1190" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="1208" y="259" width="48" height="45" rx="12" fill="#EFF5F2"/>
-<text x="1232" y="285.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#4B756E" text-anchor="middle">04</text>
-<text x="1274" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">识别玫瑰痤疮</text>
+<text x="1220" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">识别玫瑰痤疮</text>
 <circle cx="1223" cy="340" r="3" fill="#4B756E"/>
 <text x="1242" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">面中部潮红、红斑等表现</text>
 <circle cx="1223" cy="377" r="3" fill="#4B756E"/>
@@ -71,9 +61,7 @@
 </g>
 <g id="branch-5">
 <rect x="1190" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="1208" y="528" width="48" height="45" rx="12" fill="#F0F5F7"/>
-<text x="1232" y="554.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#55798A" text-anchor="middle">05</text>
-<text x="1274" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">照顾易泛红的皮肤</text>
+<text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">照顾易泛红的皮肤</text>
 <circle cx="1223" cy="609" r="3" fill="#55798A"/>
 <text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">观察日晒、冷热等个人诱因</text>
 <circle cx="1223" cy="646" r="3" fill="#55798A"/>
@@ -83,9 +71,7 @@
 </g>
 <g id="branch-6">
 <rect x="1190" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<rect x="1208" y="797" width="48" height="45" rx="12" fill="#FAF3EC"/>
-<text x="1232" y="823.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#936F56" text-anchor="middle">06</text>
-<text x="1274" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">其他常见问题</text>
+<text x="1220" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">其他常见问题</text>
 <circle cx="1223" cy="878" r="3" fill="#936F56"/>
 <text x="1242" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">脂溢性皮炎：反复炎症与脱屑</text>
 <circle cx="1223" cy="915" r="3" fill="#936F56"/>
@@ -93,5 +79,5 @@
 <circle cx="1223" cy="952" r="3" fill="#936F56"/>
 <text x="1242" y="959.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">疾病治疗不能由护肤品替代</text>
 </g>
-<text x="60" y="1054.53" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21px" font-weight="400" fill="#6E7E77" text-anchor="start">中山大学《皮肤保健与美容》学习笔记 · 根据已提供课堂材料归纳</text>
+<text x="60" y="1054.53" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21px" font-weight="400" fill="#6E7E77" text-anchor="start">中山大学《皮肤保健与美容》学习笔记 · 据课堂PPT笔记整理</text>
 </svg>
