@@ -1,6 +1,52 @@
 {
   "url": "https://hanson2017ear.github.io/skin-barrier-skincare-course/",
-  "status": "prepared",
+  "status": "published",
   "source": "main:/docs",
-  "lessonMaps": 6
+  "lessonMaps": 6,
+  "confirmedClassSessions": 4,
+  "literatureRecords": 6,
+  "courseEssayPublished": false,
+  "publicWordStatus": 404,
+  "gitHistoryRewritten": false,
+  "heroMedia": {
+    "format": "GIF",
+    "frames": 120,
+    "loop": true,
+    "pauseControl": true
+  },
+  "verifiedAt": "2026-10-25T13:35:06.643940+00:00",
+  "publicAssetsVerified": 28,
+  "browserQA": {
+    "desktopWidth": 1280,
+    "mobileViewports": [
+      "390x844",
+      "320x740"
+    ],
+    "horizontalOverflow": false,
+    "dateFilterCounts": {
+      "2026-09-15": 3,
+      "2026-09-22": 3,
+      "2026-09-29": 1,
+      "2026-10-20-provisional": 1,
+      "unassigned": 1,
+      "all": 6
+    },
+    "combinedSearchAndReset": "passed",
+    "mobileTextNotes": "single column; disclosure passed",
+    "sectionHeadingsBelowStickyHeader": true,
+    "essaySectionPresent": false,
+    "wordDownloadLinks": 0
+  },
+  "courseLabel": "秋季课程 · 临床医学5班",
+  "personalAuthorShown": false,
+  "qrVerification": {
+    "localDecodeMatchesRepository": true,
+    "physicalPhoneScanTested": false
+  },
+  "referenceMetadataReview": {
+    "records": 6,
+    "originalVerificationDate": "2026-10-22",
+    "reviewDate": "2026-10-25",
+    "method": "compared to existing Europe PMC MED and Crossref records"
+  }
 }
