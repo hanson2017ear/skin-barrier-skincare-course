@@ -1,6 +1,30 @@
 {
   "url": "https://hanson2017ear.github.io/skin-barrier-skincare-course/",
-  "status": "prepared",
+  "status": "published",
   "source": "main:/docs",
-  "lessonMaps": 6
+  "lessonMaps": 6,
+  "confirmedClassSessions": 4,
+  "literatureRecords": 6,
+  "courseEssayPublished": false,
+  "publicWordStatus": 404,
+  "gitHistoryRewritten": false,
+  "heroMedia": {
+    "format": "GIF",
+    "frames": 120,
+    "loop": true,
+    "pauseControl": true
+  },
+  "verifiedAt": "2026-10-25T08:16:40.903846+00:00",
+  "publicAssetsVerified": 28,
+  "browserQA": {
+    "desktopViewport": "1280px",
+    "mobileViewport": "390x844",
+    "mobileHorizontalOverflow": false,
+    "lessonMindmapLoaded": true,
+    "referenceSearch": "passed: 防晒 returns 1 record; clearing returns 6",
+    "bibliographyDisclosure": "passed",
+    "animationPauseAndResume": "passed",
+    "essaySectionPresent": false,
+    "wordDownloadLinks": 0
+  }
 }
