@@ -2,7 +2,7 @@
 
 核验日期：2026年10月22日。全部6条均已核对题名、作者、年份、期刊、DOI和PMID。核验来源为PubMed记录、Europe PMC的MED来源记录及可访问的Crossref记录。
 
-本文为课堂导向的叙述性论文，没有开展系统综述或荟萃分析。
+本页为课堂学习的参考文献选读，没有开展系统综述或荟萃分析。
 
 |编号|文献用途|证据类型与边界|DOI|PMID|
 |---|---|---|---|---|
@@ -55,7 +55,7 @@
 
 ## 检索与筛选记录
 
-检索围绕 skin barrier / stratum corneum、cleansing / surfactant、moisturiser / eczema、sensitive skin 和 sunscreen / photoaging 展开，以PubMed记录定位；再用DOI和PMID到Europe PMC及Crossref核对。保留与正文主张直接相关、能够核验的6篇资料。没有把未取得的全文标成已通读。
+检索围绕 skin barrier / stratum corneum、cleansing / surfactant、moisturiser / eczema、sensitive skin 和 sunscreen / photoaging 展开，以PubMed记录定位；再用DOI和PMID到Europe PMC及Crossref核对。保留与护肤机制与护理观点直接相关、能够核验的6篇资料。没有把未取得的全文标成已通读。
 
 可复核的题名检索："Skin hydration: a review on its molecular mechanisms"；"Skin Cleansing without or with Compromise"；"The effect of washing and drying practices on skin barrier function"；"Emollients and moisturisers for eczema"；"Definition of Sensitive Skin" AND Misery；"Sunscreen and prevention of skin aging"。
 

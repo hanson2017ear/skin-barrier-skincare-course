@@ -1,25 +1,6 @@
 {
   "url": "https://hanson2017ear.github.io/skin-barrier-skincare-course/",
-  "status": "published",
+  "status": "prepared",
   "source": "main:/docs",
-  "lessonMaps": 6,
-  "confirmedClassSessions": 4,
-  "literatureRecords": 6,
-  "verifiedAt": "2026-10-25T04:17:46.217187+00:00",
-  "publicAssetsVerified": 26,
-  "browserQA": {
-    "desktop": {
-      "viewport": 1280,
-      "documentWidth": 1265,
-      "brokenLoadedImages": 0
-    },
-    "mobile": {
-      "viewport": 390,
-      "documentWidth": 375
-    },
-    "lessonSearch": "passed: acne matches one topic; unknown query shows empty state",
-    "referenceSearch": "passed: sunscreen matches one reference",
-    "nativeDetails": "passed",
-    "screenshot": "课程网页_首页截图.png"
-  }
+  "lessonMaps": 6
 }

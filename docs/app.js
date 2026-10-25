@@ -28,3 +28,16 @@ function revealTarget() {
 }
 window.addEventListener('hashchange', revealTarget);
 revealTarget();
+const motionImage = document.getElementById('hero-motion');
+const motionButton = document.getElementById('motion-toggle');
+const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+let playing = false;
+function setMotion(play) {
+  playing = play;
+  motionImage.src = play ? motionImage.dataset.animation : motionImage.dataset.poster;
+  motionButton.textContent = play ? '暂停动画' : '播放动画';
+}
+motionButton.hidden = false;
+setMotion(!reducedMotion.matches);
+motionButton.addEventListener('click', () => setMotion(!playing));
+reducedMotion.addEventListener('change', event => { if (event.matches) setMotion(false); });
