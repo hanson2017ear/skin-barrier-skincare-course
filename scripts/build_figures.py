@@ -151,5 +151,5 @@ def advice():
     d.save('figure3_skincare_advice')
 
 if __name__=='__main__':
-    mindmap(); barrier(); advice()
-    print('Saved three PNGs (300 dpi) and three editable SVGs.')
+    mindmap(); advice()
+    print('Saved figure1 and figure3 PNG/SVG. Figure2 is AI-assisted artwork; this script does not overwrite it.')

@@ -1,36 +1,52 @@
-# 从皮肤屏障看日常护肤中的过度清洁与保湿误区 补充材料
+# 皮肤保健与美容 课程学习册
 
-本材料配合中山大学公共选修课《皮肤保健与美容》的课程论文使用。中心问题是：日常清洁和保湿如何在满足需要的同时，保留皮肤屏障的稳定与耐受。
+[打开课程网页](https://hanson2017ear.github.io/skin-barrier-skincare-course/)
 
-## 查看图示
+中山大学公共选修课《皮肤保健与美容》的学习笔记与课程论文补充材料。网页提供课堂专题导图、完整论文、参考文献书架及原文件下载。
 
-1. [全文思维导图](figures/figure1_mindmap.png)：概括机制、误区和生活建议。
-2. [皮肤屏障结构图](figures/figure2_skin_barrier.png)：区分角质细胞、细胞间脂质、NMF、皮脂膜与TEWL。
-3. [护肤建议对照图](figures/figure3_skincare_advice.png)：把常见误区转成可执行的调整。
+## 课程笔记
 
-每张图同时提供PNG和保留文字的SVG。图示为原创建议性示意，不表示实验测量值。
+课表已核对9月15日、9月22日龚子鉴老师，9月29日夏悦老师，10月20日张云青老师。龚老师前两次课的合并资料按专题归档，没有强行拆到某一天；化妆品专题按课表与第四次课堂记录归档；抗老化专题的授课归属仍待核对。
 
-## 其他补充材料
+已整理6张专题思维导图，覆盖当前提供的全部课件内容；后续一讲待收到材料后补充。详见[课堂来源说明](classroom_notes.md)和[导图目录](lessons/index.json)。每张提供PNG、可编辑文字SVG及Mermaid源码。
 
-- [参考文献与核验说明](references.md)：正文6篇文献、用途及DOI/PMID。
-- [课堂知识点与页码](classroom_notes.md)：采用PDF物理页码，并说明需要辨析的表述。
-- [图注与导出说明](figure_notes.md)及[Mermaid源码](mindmap.mmd)。
-- `scripts/`：自绘图与二维码生成脚本。
+## 课程论文
 
-## 二维码入口
+《从皮肤屏障看日常护肤中的过度清洁与保湿误区》
 
-仓库首页：https://github.com/hanson2017ear/skin-barrier-skincare-course
+正文围绕皮肤屏障，讨论过度清洁、只补水不保湿及产品叠加的误区。课堂内容采用授课笔记的自然表述，医疗文献按数字顺序引用。
 
-补充材料已发布至上述公开仓库。二维码指向仓库首页，可查看三张图及可编辑原文件。若仓库名改变，重新运行二维码脚本并替换论文图片。
+- [阅读网页论文](https://hanson2017ear.github.io/skin-barrier-skincare-course/#essay)
+- [下载修订版Word](docs/downloads/course-essay.docx)
+- [参考文献与核验说明](references.md)
+- [BibTeX书目](references.bib) / [RIS书目](references.ris)
+
+## 图示
+
+1. [全文思维导图](figures/figure1_mindmap.png)
+2. [皮肤屏障结构与水分流失 新版](figures/figure2_skin_barrier.png)
+3. [护肤误区与科学建议](figures/figure3_skincare_advice.png)
+
+图2为AI辅助生成的原创概念示意，已核对NMF、胞间脂质、表面皮脂膜和正常TEWL的位置与含义；不按比例，提供PNG原图。图1、图3及各专题导图为程序排版，SVG保留可编辑文字。
+
+## 文件结构
 
 ```text
-python scripts/make_qr.py https://github.com/hanson2017ear/skin-barrier-skincare-course
+docs/                  网页与下载材料（GitHub Pages）
+lessons/               各专题导图 PNG / SVG / Mermaid 与目录
+figures/               论文三图
+references.md          完整参考文献、用途、核验范围
+references.bib / .ris   可导入书目管理软件的记录
+classroom_notes.md     课表、授课归属与课堂来源说明
+figure_notes.md         图注、插入位置和制作说明
+qr_github.png          补充材料仓库二维码
+scripts/               图示与二维码辅助脚本
 ```
 
-所需依赖：`Pillow`、`reportlab`。`qr_target.txt`保存实际编码的链接，`qr_status.json`记录当前状态。二维码只提供补充入口，论文正文完整保留论证内容。
+二维码保留指向本仓库首页，README中的首个链接进入课程网页。后续补课只需更新专题资料、导图和网页。
 
-## 来源与使用
+## 来源与辅助工具
 
-图示根据课堂知识与列出的公开文献重新绘制。原始课程文件和文献全文保留在本地阅读记录中；此材料包包含自绘图、书目信息、知识点页码索引和脚本。图示辅助理解日常护理，不承担个体诊断功能。
+课堂内容根据用户提供的课表和PPT照片整理，未编造教师发言或尚未提供的课程。完整课程原文件、签到二维码、课堂人物照片不在此仓库发布。外部文献独立标注，不伪装成课堂知识。
 
-辅助工具：Codex用于资料整理、文字初拟、自绘图排版与核验记录。当前审阅为AI辅助自审，没有独立临床专家审稿或学校查重结果。核验日期：2026年10月22日。
+Codex辅助整理、写作、排版和检查；图2使用AI辅助绘制。当前审阅为AI辅助自审，没有独立临床专家审稿或学校查重结果。更新：2026年10月24日。
