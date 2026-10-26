@@ -77,7 +77,6 @@ const desktop = window.matchMedia('(min-width: 768px)');
 desktop.addEventListener('change', event => { if (event.matches && menu.open) closeMenu(); });
 
 const nav = document.querySelector('.site-nav');
-new ResizeObserver(() => document.documentElement.style.setProperty('--nav-height', `${nav.offsetHeight + 32}px`)).observe(nav);
 const navSections = [...document.querySelectorAll('[data-nav]')];
 const sectionsInView = new Set();
 const navObserver = new IntersectionObserver(entries => {
@@ -113,17 +112,8 @@ if (!reduceMotion.matches) {
       reveals.unobserve(entry.target);
     }
   },{threshold:0.04});
-  const words = new IntersectionObserver(entries => {
-    for (const entry of entries) if (entry.isIntersecting) {
-      const index = Number(entry.target.dataset.wordIndex);
-      entry.target.style.transitionDelay = `${index * 70}ms`;
-      entry.target.classList.add('is-active');
-      words.unobserve(entry.target);
-    }
-  },{rootMargin:'0px 0px -18% 0px',threshold:0.6});
   document.documentElement.classList.add('motion-ready');
   for (const section of document.querySelectorAll('[data-reveal]')) reveals.observe(section);
-  [...document.querySelectorAll('.principle .word')].forEach((word,index) => {word.dataset.wordIndex=index;words.observe(word);});
 }
 reduceMotion.addEventListener('change', event => {
   if (event.matches) { document.documentElement.classList.remove('motion-ready'); wantsMotion=false;renderMotion(); }
