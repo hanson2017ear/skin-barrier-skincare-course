@@ -26,7 +26,7 @@ function selectDate(date) {
   activeDate = date;
   for (const button of dateButtons) button.setAttribute('aria-pressed', String(button.dataset.dateFilter === date));
   const notes = {
-    all:'9月15日和22日共用三个专题；10月20日为化妆品专题，抗老化日期待核。',
+    all:'9月15日和22日的照片未逐日标注，合并为三个专题。',
     '2026-09-15 2026-09-22':'龚子鉴老师9月15日、22日的合并笔记，共三个专题，未逐日划分。',
     '2026-09-29':'夏悦老师：常见损容性皮肤病。',
     '2026-10-20':'张云青老师：化妆品与合理选用。',
@@ -58,7 +58,6 @@ revealTarget();
 const menu = document.getElementById('mobile-menu');
 const menuButton = document.querySelector('.menu-toggle');
 function closeMenu() {
-  menu.classList.remove('is-open');
   menu.close();
   document.body.classList.remove('menu-open');
   menuButton.setAttribute('aria-expanded','false');
@@ -67,7 +66,6 @@ menuButton.addEventListener('click', () => {
   menuButton.setAttribute('aria-expanded','true');
   document.body.classList.add('menu-open');
   menu.showModal();
-  requestAnimationFrame(() => menu.classList.add('is-open'));
 });
 menu.querySelector('.menu-close').addEventListener('click',closeMenu);
 menu.addEventListener('cancel', event => { event.preventDefault(); closeMenu(); });
@@ -104,16 +102,6 @@ motionButton.hidden = false;
 motionButton.addEventListener('click', () => { wantsMotion = !wantsMotion; renderMotion(); });
 new IntersectionObserver(entries => { mediaVisible = entries[0].isIntersecting; renderMotion(); },{threshold:0.08}).observe(image);
 
-if (!reduceMotion.matches) {
-  const reveals = new IntersectionObserver(entries => {
-    for (const entry of entries) if (entry.isIntersecting) {
-      entry.target.classList.add('is-revealed');
-      reveals.unobserve(entry.target);
-    }
-  },{threshold:0.04});
-  document.documentElement.classList.add('motion-ready');
-  for (const section of document.querySelectorAll('[data-reveal]')) reveals.observe(section);
-}
 reduceMotion.addEventListener('change', event => {
-  if (event.matches) { document.documentElement.classList.remove('motion-ready'); wantsMotion=false;renderMotion(); }
+  if (event.matches) { wantsMotion=false;renderMotion(); }
 });

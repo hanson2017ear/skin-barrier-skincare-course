@@ -1,9 +1,11 @@
-# 课程网站设计预览
+# 课程笔记网页预览
 
-使用已安装的 [landing-page-design](https://github.com/elayadesign/ai-design-skills/tree/main/skills/landing-page-design) 制作的独立设计预览，原站入口为上一级目录。
+[打开网页](https://hanson2017ear.github.io/skin-barrier-skincare-course/design-preview/)
 
-课堂资料、教师归属、文献及图示沿用原站。营销用途的模板条款不套用于课程资料，没有虚构评价、推荐、商业数据或疗效。主要采用其字体与间距尺度、悬浮外观导航和完整交互状态；导航随页面滚出视口，避免覆盖图示，学习重点文字保持正常深色。
+这里是《皮肤保健与美容》课程笔记的新排版，课堂资料与上一级原版网页共用。包含六个专题、三张护肤示意图和六篇参考文献。
 
-主字体为自托管的Manrope，中文使用系统中文字体回退。六专题、课次筛选、文字笔记、六篇书目、原图下载和学习用途说明均保留。预览设置noindex，避免与原站重复收录。
+HTML由本地生成器输出，style.css和app.js负责排版、筛选及动画控制。图片和下载文件位于上一级assets/、downloads/目录。预览暂不供搜索引擎收录。
 
-`404.html`为预览用错误页模板；未修改原站的全局路由。Manrope字体许可证见fonts/OFL.txt。
+网页排版参考[landing-page-design](https://github.com/elayadesign/ai-design-skills/tree/main/skills/landing-page-design)的字体与间距建议。Manrope字体许可证见fonts/OFL.txt。
+
+课堂笔记按课表和PPT照片整理。Codex协助整理和网页制作；《角质层结构与水分流失》使用AI辅助绘制。仅供课程学习参考，不构成医疗建议。
