@@ -20,15 +20,14 @@ function bindSearch(inputId, selector, statusId, emptyId, noun, extra = () => tr
   return update;
 }
 let activeDate = 'all';
-const updateLessons = bindSearch('lesson-search', '.lesson', 'lesson-count', 'no-lessons', '个专题', item => activeDate === 'all' || item.dataset.dates.split(' ').includes(activeDate));
+const updateLessons = bindSearch('lesson-search', '.lesson', 'lesson-count', 'no-lessons', '个专题', item => activeDate === 'all' || activeDate.split(' ').some(date => item.dataset.dates.split(' ').includes(date)));
 const dateButtons = [...document.querySelectorAll('[data-date-filter]')];
 function selectDate(date) {
   activeDate = date;
   for (const button of dateButtons) button.setAttribute('aria-pressed', String(button.dataset.dateFilter === date));
   const notes = {
     all:'9月15日和22日共用三个专题；10月20日为化妆品专题，抗老化日期待核。',
-    '2026-09-15':'龚子鉴老师前两次课的合并笔记，共三个专题，未逐日划分。',
-    '2026-09-22':'龚子鉴老师前两次课的合并笔记，共三个专题，未逐日划分。',
+    '2026-09-15 2026-09-22':'龚子鉴老师9月15日、22日的合并笔记，共三个专题，未逐日划分。',
     '2026-09-29':'夏悦老师：常见损容性皮肤病。',
     '2026-10-20':'张云青老师：化妆品与合理选用。',
     unassigned:'皮肤老化与科学抗衰专题，授课老师及日期待确认。'
