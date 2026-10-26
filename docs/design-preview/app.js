@@ -78,15 +78,20 @@ desktop.addEventListener('change', event => { if (event.matches && menu.open) cl
 
 const nav = document.querySelector('.site-nav');
 new ResizeObserver(() => document.documentElement.style.setProperty('--nav-height', `${nav.offsetHeight + 32}px`)).observe(nav);
+const navSections = [...document.querySelectorAll('[data-nav]')];
+const sectionsInView = new Set();
 const navObserver = new IntersectionObserver(entries => {
-  for (const entry of entries) if (entry.isIntersecting) {
-    for (const a of document.querySelectorAll('.nav-link')) {
-      if (a.hash === '#'+entry.target.id) a.setAttribute('aria-current','location');
-      else a.removeAttribute('aria-current');
-    }
+  for (const entry of entries) {
+    if (entry.isIntersecting) sectionsInView.add(entry.target);
+    else sectionsInView.delete(entry.target);
+  }
+  const active = navSections.find(section => sectionsInView.has(section));
+  for (const a of document.querySelectorAll('.nav-link')) {
+    if (active && a.hash === '#'+active.id) a.setAttribute('aria-current','location');
+    else a.removeAttribute('aria-current');
   }
 },{rootMargin:'-15% 0px -65% 0px',threshold:0});
-for (const section of document.querySelectorAll('[data-nav]')) navObserver.observe(section);
+for (const section of navSections) navObserver.observe(section);
 
 const image = document.getElementById('hero-motion');
 const motionButton = document.getElementById('motion-toggle');
