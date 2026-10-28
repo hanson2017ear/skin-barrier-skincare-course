@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800px" height="1100px" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
+<title id="title">面部色素性皮肤病的防治思维导图</title>
+<desc id="desc">黑素形成与影响因素、常见面部色斑，以及护理、药物和医疗治疗的选择。根据许庆芳老师10月27日《面部色素性皮肤病的防治》PPT整理。</desc>
+<rect width="1800" height="1100" fill="#FCFCF9"/>
+<text x="60" y="57.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="700" fill="#657E78" text-anchor="start">课程笔记</text>
+<text x="60" y="116.99" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="43px" font-weight="700" fill="#203D37" text-anchor="start">面部色素性皮肤病的防治</text>
+<text x="60" y="164.39" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23px" font-weight="400" fill="#64736E" text-anchor="start">许庆芳老师 · 10月27日 · 最后一讲</text>
+<line x1="60" y1="195" x2="1740" y2="195" stroke="#DDE5DF" stroke-width="2"/>
+<polyline points="694,611.0 650,611.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="650,347.0 650,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="650,347.0 610,347.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="650,616.0 610,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="650,885.0 610,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1106,611.0 1150,611.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1150,347.0 1150,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1150,347.0 1190,347.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1150,616.0 1190,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1150,885.0 1190,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
+<rect x="694" y="482" width="412" height="258" rx="30" fill="#315F56"/>
+<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">色斑的类型与层次</text>
+<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">怎样影响防治选择？</text>
+<g id="branch-1">
+<rect x="60" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="90" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">肤色与黑素代谢</text>
+<circle cx="93" cy="340" r="3" fill="#4B756E"/>
+<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">肤色受色素与分布层次影响</text>
+<circle cx="93" cy="377" r="3" fill="#4B756E"/>
+<text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">酪氨酸酶参与黑素合成</text>
+<circle cx="93" cy="414" r="3" fill="#4B756E"/>
+<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">黑素小体转运至角质形成细胞</text>
+</g>
+<g id="branch-2">
+<rect x="60" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="90" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">影响色素的因素</text>
+<circle cx="93" cy="609" r="3" fill="#55798A"/>
+<text x="112" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">紫外线与可见光影响色素</text>
+<circle cx="93" cy="646" r="3" fill="#55798A"/>
+<text x="112" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">遗传、激素和炎症参与</text>
+<circle cx="93" cy="683" r="3" fill="#55798A"/>
+<text x="112" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">屏障与皮肤微环境也有关</text>
+</g>
+<g id="branch-3">
+<rect x="60" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="90" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">常见面部色素斑</text>
+<circle cx="93" cy="878" r="3" fill="#936F56"/>
+<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">黄褐斑有多种因素参与</text>
+<circle cx="93" cy="915" r="3" fill="#936F56"/>
+<text x="112" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">雀斑与日光性黑子</text>
+<circle cx="93" cy="952" r="3" fill="#936F56"/>
+<text x="112" y="959.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">瑞尔黑变病或与接触有关</text>
+</g>
+<g id="branch-4">
+<rect x="1190" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="1220" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">其他色素性皮肤病</text>
+<circle cx="1223" cy="340" r="3" fill="#4B756E"/>
+<text x="1242" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">太田痣可累及眼部</text>
+<circle cx="1223" cy="377" r="3" fill="#4B756E"/>
+<text x="1242" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">颧部褐青色痣多对称</text>
+<circle cx="1223" cy="414" r="3" fill="#4B756E"/>
+<text x="1242" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">咖啡斑及其他斑痣</text>
+</g>
+<g id="branch-5">
+<rect x="1190" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">护理与药物治疗</text>
+<circle cx="1223" cy="609" r="3" fill="#55798A"/>
+<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">防晒配合温和保湿</text>
+<circle cx="1223" cy="646" r="3" fill="#55798A"/>
+<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">外用药物作用机制有别</text>
+<circle cx="1223" cy="683" r="3" fill="#55798A"/>
+<text x="1242" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">系统用药须评估适应证</text>
+</g>
+<g id="branch-6">
+<rect x="1190" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
+<text x="1220" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">治疗方式与风险</text>
+<circle cx="1223" cy="878" r="3" fill="#936F56"/>
+<text x="1242" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">剥脱深度与刺激风险</text>
+<circle cx="1223" cy="915" r="3" fill="#936F56"/>
+<text x="1242" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">注射疗法需评估证据</text>
+<circle cx="1223" cy="952" r="3" fill="#936F56"/>
+<text x="1242" y="959.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">光电选择结合类型与层次</text>
+</g>
+<text x="60" y="1054.53" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21px" font-weight="400" fill="#6E7E77" text-anchor="start">中山大学《皮肤保健与美容》学习笔记 · 据课堂PPT笔记整理</text>
+</svg>
