@@ -29,9 +29,10 @@ function selectDate(date) {
   for (const button of dateButtons) button.setAttribute('aria-pressed', String(button.dataset.dateFilter === date));
   dateNote.textContent = date === '2026-10-20'
     ? '10月20日张云青老师：化妆品与合理选用。'
+    : date === '2026-10-27' ? '10月27日许庆芳老师：面部色素性皮肤病的防治。'
     : date === 'unassigned' ? '此专题的授课老师及日期均待核实。'
     : date === '2026-09-29' ? '9月29日夏悦老师的损容性皮肤病课件有署名和日期。'
-    : date === 'all' ? '9月15日和22日共用3个专题；10月20日为化妆品专题，抗老化日期待核。'
+    : date === 'all' ? '五次课材料已整理为七个专题；前两次课共用三个专题，抗老化授课信息仍待确认。'
     : '9月15日和22日共用3个专题，现有笔记未逐日划分。';
   updateLessons();
 }
