@@ -546,3 +546,10 @@ input[type="search"]::placeholder { color: #637168; opacity: 1; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; }
 }
+
+.lesson-note { margin-top:24px; }
+.lesson-note h3, .lesson-reading h3 { margin:0 0 8px; font-size:16px; line-height:24px; }
+.lesson-note p { max-width:80ch; margin:0; font-size:16px; line-height:28px; }
+.lesson-reading { margin-top:24px; font-size:14px; line-height:20px; }
+.lesson-reading ol { padding-left:24px; }
+.lesson-reading li { margin-top:16px; overflow-wrap:anywhere; }
