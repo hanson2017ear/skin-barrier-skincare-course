@@ -1,6 +1,6 @@
 'use strict';
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-const normalize = value => value.toLocaleLowerCase().replace(/(\d)\s*(?=[年月日])/g, '$1').replace(/([年月])\s*(?=\d)/g, '$1');
+const normalize = value => value.toLocaleLowerCase().replace(/过强清洁/g, '过度清洁').replace(/(\d)\s*(?=[年月日])/g, '$1').replace(/([年月])\s*(?=\d)/g, '$1');
 function bindSearch(inputId, selector, statusId, emptyId, noun, extra = () => true) {
   const input = document.getElementById(inputId);
   const items = [...document.querySelectorAll(selector)];
@@ -26,12 +26,12 @@ function selectDate(date) {
   activeDate = date;
   for (const button of dateButtons) button.setAttribute('aria-pressed', String(button.dataset.dateFilter === date));
   const notes = {
-    all:'9月15日和22日的照片未逐日标注，合并为三个专题。',
-    '2026-09-15 2026-09-22':'龚子鉴老师9月15日、22日的合并笔记，共三个专题，未逐日划分。',
+    all:'六次课，七个专题。可按日期筛选，也可输入老师姓名查找。',
+    '2026-09-15 2026-09-22':'龚子鉴老师 · 9月15日、22日 · 三个专题。',
     '2026-09-29':'夏悦老师：常见损容性皮肤病。',
     '2026-10-20':'张云青老师：化妆品与合理选用。',
     '2026-10-27':'许庆芳老师：面部色素性皮肤病的防治，最后一讲。',
-    unassigned:'皮肤老化与科学抗衰专题，授课老师及日期待确认。'
+    '2026-10-13':'谢小元老师：皮肤老化与科学抗衰。'
   };
   document.getElementById('date-filter-note').textContent = notes[date];
   updateLessons();

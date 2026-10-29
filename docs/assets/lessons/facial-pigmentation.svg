@@ -17,13 +17,13 @@
 <polyline points="1150,616.0 1190,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <polyline points="1150,885.0 1190,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <rect x="694" y="482" width="412" height="258" rx="30" fill="#315F56"/>
-<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">色斑的类型与层次</text>
-<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">怎样影响防治选择？</text>
+<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">色素形成与常见色斑</text>
+<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">不同类型的防治</text>
 <g id="branch-1">
 <rect x="60" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">肤色与黑素代谢</text>
 <circle cx="93" cy="340" r="3" fill="#4B756E"/>
-<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">肤色受色素与分布层次影响</text>
+<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">肤色与色素含量、分布有关</text>
 <circle cx="93" cy="377" r="3" fill="#4B756E"/>
 <text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">酪氨酸酶参与黑素合成</text>
 <circle cx="93" cy="414" r="3" fill="#4B756E"/>
@@ -43,7 +43,7 @@
 <rect x="60" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">常见面部色素斑</text>
 <circle cx="93" cy="878" r="3" fill="#936F56"/>
-<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">黄褐斑有多种因素参与</text>
+<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">黄褐斑与光照、激素等有关</text>
 <circle cx="93" cy="915" r="3" fill="#936F56"/>
 <text x="112" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">雀斑与日光性黑子</text>
 <circle cx="93" cy="952" r="3" fill="#936F56"/>
@@ -63,11 +63,9 @@
 <rect x="1190" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">护理与药物治疗</text>
 <circle cx="1223" cy="609" r="3" fill="#55798A"/>
-<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">防晒配合温和保湿</text>
+<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">外用药物作用机制有别</text>
 <circle cx="1223" cy="646" r="3" fill="#55798A"/>
-<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">外用药物作用机制有别</text>
-<circle cx="1223" cy="683" r="3" fill="#55798A"/>
-<text x="1242" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">系统用药须评估适应证</text>
+<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">系统用药须评估适应证</text>
 </g>
 <g id="branch-6">
 <rect x="1190" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>

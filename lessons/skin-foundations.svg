@@ -17,17 +17,17 @@
 <polyline points="1150,616.0 1190,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <polyline points="1150,885.0 1190,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <rect x="694" y="482" width="412" height="258" rx="30" fill="#315F56"/>
-<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">护肤为什么要从</text>
-<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">皮肤屏障出发？</text>
+<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">角质层与皮肤屏障</text>
+<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">清洁与保湿</text>
 <g id="branch-1">
 <rect x="60" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">皮肤结构</text>
 <circle cx="93" cy="340" r="3" fill="#4B756E"/>
-<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">维护皮肤健康与美观</text>
+<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">屏障、感觉与外观</text>
 <circle cx="93" cy="377" r="3" fill="#4B756E"/>
 <text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">表皮、真皮与皮下组织</text>
 <circle cx="93" cy="414" r="3" fill="#4B756E"/>
-<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮脂腺等附属器参与功能</text>
+<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮脂腺、汗腺等附属器</text>
 </g>
 <g id="branch-2">
 <rect x="60" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
@@ -37,13 +37,13 @@
 <circle cx="93" cy="646" r="3" fill="#55798A"/>
 <text x="112" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">细胞间脂质构成“灰浆”</text>
 <circle cx="93" cy="683" r="3" fill="#55798A"/>
-<text x="112" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮面脂膜有助减少水分散失</text>
+<text x="112" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮面脂膜减少水分散失</text>
 </g>
 <g id="branch-3">
 <rect x="60" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">水分如何留住</text>
 <circle cx="93" cy="878" r="3" fill="#936F56"/>
-<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">NMF帮助角质层保水</text>
+<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">NMF：细胞内的保水成分</text>
 <circle cx="93" cy="915" r="3" fill="#936F56"/>
 <text x="112" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">正常皮肤也存在TEWL</text>
 <circle cx="93" cy="952" r="3" fill="#936F56"/>
@@ -63,11 +63,11 @@
 <rect x="1190" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">清洁与保湿配合</text>
 <circle cx="1223" cy="609" r="3" fill="#55798A"/>
-<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">避免过强清洁和反复摩擦</text>
+<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">避免过度清洁和反复摩擦</text>
 <circle cx="1223" cy="646" r="3" fill="#55798A"/>
-<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">吸湿成分帮助增加含水量</text>
+<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">吸湿成分增加角质层水合</text>
 <circle cx="1223" cy="683" r="3" fill="#55798A"/>
-<text x="1242" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">封闭性成分帮助减少失水</text>
+<text x="1242" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">封闭成分减少水分散失</text>
 </g>
 <g id="branch-6">
 <rect x="1190" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>

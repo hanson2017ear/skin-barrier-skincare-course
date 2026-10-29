@@ -4,10 +4,10 @@ function bindSearch(inputId, selector, statusId, emptyId, noun, extraMatch = () 
   const input = document.getElementById(inputId);
   const items = [...document.querySelectorAll(selector)];
   const update = () => {
-    const terms = input.value.trim().toLocaleLowerCase().replace(/(\d)\s*(?=[年月日])/g, '$1').replace(/([年月])\s*(?=\d)/g, '$1').split(/\s+/).filter(Boolean);
+    const terms = input.value.trim().toLocaleLowerCase().replace(/过强清洁/g, '过度清洁').replace(/(\d)\s*(?=[年月日])/g, '$1').replace(/([年月])\s*(?=\d)/g, '$1').split(/\s+/).filter(Boolean);
     let count = 0;
     for (const item of items) {
-      const text = item.dataset.search.toLocaleLowerCase().replace(/\s+/g, '');
+      const text = item.dataset.search.toLocaleLowerCase().replace(/过强清洁/g, '过度清洁').replace(/\s+/g, '');
       const matches = terms.every(term => text.includes(term)) && extraMatch(item);
       item.hidden = !matches;
       if (matches) count++;
@@ -30,10 +30,10 @@ function selectDate(date) {
   dateNote.textContent = date === '2026-10-20'
     ? '10月20日张云青老师：化妆品与合理选用。'
     : date === '2026-10-27' ? '10月27日许庆芳老师：面部色素性皮肤病的防治。'
-    : date === 'unassigned' ? '此专题的授课老师及日期均待核实。'
+    : date === '2026-10-13' ? '10月13日谢小元老师：皮肤老化与科学抗衰。'
     : date === '2026-09-29' ? '9月29日夏悦老师的损容性皮肤病课件有署名和日期。'
-    : date === 'all' ? '五次课材料已整理为七个专题；前两次课共用三个专题，抗老化授课信息仍待确认。'
-    : '9月15日和22日共用3个专题，现有笔记未逐日划分。';
+    : date === 'all' ? '六次课，七个专题。可按日期筛选，也可输入老师姓名查找。'
+    : '龚子鉴老师 · 9月15日、22日 · 三个专题。';
   updateLessons();
 }
 for (const button of dateButtons) button.addEventListener('click', () => selectDate(button.dataset.dateFilter));

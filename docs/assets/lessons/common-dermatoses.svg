@@ -17,17 +17,17 @@
 <polyline points="1150,616.0 1190,616.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <polyline points="1150,885.0 1190,885.0" fill="none" stroke="#B8CFC7" stroke-width="3" stroke-linejoin="round"/>
 <rect x="694" y="482" width="412" height="258" rx="30" fill="#315F56"/>
-<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">反复长痘、泛红，</text>
-<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">应该怎样理解？</text>
+<text x="900.0" y="596.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">痤疮与玫瑰痤疮</text>
+<text x="900.0" y="643.18" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31px" font-weight="700" fill="#FFFFFF" text-anchor="middle">疾病表现与诱因</text>
 <g id="branch-1">
 <rect x="60" y="234" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="287.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">认识疾病范围</text>
 <circle cx="93" cy="340" r="3" fill="#4B756E"/>
-<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">涉及外露部位皮肤与外观</text>
+<text x="112" y="347.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">涉及皮肤与附属器的外观</text>
 <circle cx="93" cy="377" r="3" fill="#4B756E"/>
-<text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">附属器、色素及皮炎问题并存</text>
+<text x="112" y="384.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">包括炎症、色素等问题</text>
 <circle cx="93" cy="414" r="3" fill="#4B756E"/>
-<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">关注皮损的具体表现</text>
+<text x="112" y="421.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">留意不同的皮损表现</text>
 </g>
 <g id="branch-2">
 <rect x="60" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
@@ -43,9 +43,9 @@
 <rect x="60" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
 <text x="90" y="825.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">痤疮的护理与治疗</text>
 <circle cx="93" cy="878" r="3" fill="#936F56"/>
-<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">避免过度清洗和挤压皮损</text>
+<text x="112" y="885.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">避免挤压皮损</text>
 <circle cx="93" cy="915" r="3" fill="#936F56"/>
-<text x="112" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">保湿与分区护理同样重要</text>
+<text x="112" y="922.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">皮损可有粉刺、丘疹等</text>
 <circle cx="93" cy="952" r="3" fill="#936F56"/>
 <text x="112" y="959.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">由医师按严重程度选择治疗</text>
 </g>
@@ -61,13 +61,11 @@
 </g>
 <g id="branch-5">
 <rect x="1190" y="503" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
-<text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">照顾易泛红的皮肤</text>
+<text x="1220" y="556.97" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29px" font-weight="700" fill="#2D4540" text-anchor="start">玫瑰痤疮与诱因</text>
 <circle cx="1223" cy="609" r="3" fill="#55798A"/>
-<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">观察日晒、冷热等个人诱因</text>
+<text x="1242" y="616.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">日晒、冷热等可能诱发泛红</text>
 <circle cx="1223" cy="646" r="3" fill="#55798A"/>
-<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">温和清洁并维护皮肤屏障</text>
-<circle cx="1223" cy="683" r="3" fill="#55798A"/>
-<text x="1242" y="690.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">防晒与针对性诊疗相配合</text>
+<text x="1242" y="653.32" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24px" font-weight="400" fill="#485A55" text-anchor="start">诱因因人而异</text>
 </g>
 <g id="branch-6">
 <rect x="1190" y="772" width="550" height="226" rx="22" fill="#FFFFFF" stroke="#D8E2DD" stroke-width="2"/>
